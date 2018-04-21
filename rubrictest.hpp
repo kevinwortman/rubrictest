@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
-// rubrictest.hh
+// rubrictest.hpp
 //
 // minimalist C++ unit testing for grading rubric-based programming assignments
 //

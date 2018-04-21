@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////
-// stats_solution.hh
+// stats_solution.hpp
 //
-// Solution code for stats.hh . This would be kept private to the
+// Solution code for stats.hpp . This would be kept private to the
 // instructor. If you run the tests against this code, they all pass.
 //
 ///////////////////////////////////////////////////////////////////////////////

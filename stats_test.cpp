@@ -1,15 +1,15 @@
 ///////////////////////////////////////////////////////////////////////////////
-// stats_test.cc
+// stats_test.cpp
 //
 // Example of unit test for the stats.hh assignment.
 //
 ///////////////////////////////////////////////////////////////////////////////
 
-#include "rubrictest.hh"
+#include "rubrictest.hpp"
 
 // Change this to "stats_solution.hh" to try testing the solution
 // code.
-#include "stats.hh"
+#include "stats.hpp"
 
 #include <algorithm>
 #include <random>
