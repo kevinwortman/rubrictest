@@ -70,7 +70,7 @@ private:
   std::function<void()> _test;
 };
 
-// A rubric represents a mult-critera grading scheme. It collects
+// A rubric represents a multi-criteria grading scheme. It collects
 // several RubricCriterion objects.
 class Rubric {
 public:
@@ -189,5 +189,5 @@ private:
   TEST_TRUE(message, (x) <= (y))
 
 ///////////////////////////////////////////////////////////////////////////////
-// rubrictest.hh
+// rubrictest.hpp
 ///////////////////////////////////////////////////////////////////////////////
